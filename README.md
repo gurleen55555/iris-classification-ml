@@ -75,5 +75,11 @@ K-Nearest Neighbors (KNN) performed the best due to the small, clean, and well-s
 
 This dataset is small and well-balanced, so results may not reflect real-world performance where data is noisy and imbalanced.
 
+## 🛠️ Skills Used
+- Python
+- Pandas
+- Scikit-learn
+- Machine Learning
+- Data Analysis
 ---
 
